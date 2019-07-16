@@ -1,0 +1,3 @@
+Project site: https://uwnlp.github.io/event2mind/
+Paper: https://arxiv.org/pdf/1805.06939.pdf
+Demo: https://demo.allennlp.org/event2mind
